@@ -16,5 +16,5 @@ unifica = merge
 nascondi = stash
 spingi = push
 tira = pull
-logga = log
+registro = log
 ```
